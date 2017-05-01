@@ -6,7 +6,9 @@
 			<%= link_to tag.name, tag_path(tag) %>
 		<% end %>
 		<%= link_to "All Tags", tags_path  %>
-</p>			
+</p>	
+
+<p><%= image_tag @article.image.url %></p>		
 
 <p><%= @article.body %></p>
 
