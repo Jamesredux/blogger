@@ -1,6 +1,6 @@
 # README
 
-14 April UP TO "Defining the Index Action" ....
+layouts/application.html.erb is one way to change the overall layout... For the final project along with maybe application.css
 
 im just testing to see if normal changes work the way they used to...
 
